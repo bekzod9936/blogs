@@ -1,4 +1,4 @@
-{"types": ["TV", "Movie","Special", "OVA", "ONA"],
+{  "types": ["TV", "Movie","Special", "OVA", "ONA"],
    "data":[
       {
          "mal_id":1735,

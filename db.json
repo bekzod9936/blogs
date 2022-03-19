@@ -1,12 +1,12 @@
 {
-   "types":[
+   
+   "data":{"types":[
       "TV",
       "Movie",
       "Special",
       "OVA",
       "ONA"
-   ],
-   "data":[
+   ],"data":[
       {
          "mal_id":1735,
          "url":"https://myanimelist.net/anime/1735/Naruto__Shippuuden",
@@ -757,5 +757,5 @@
          "members":141885,
          "rated":"PG-13"
       }
-   ]
+   ]}
 }
